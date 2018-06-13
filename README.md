@@ -1,5 +1,5 @@
 # hps-ruby-rspec
-[![Build Status](https://travis-ci.org/hiptest/hps-ruby-rspec.svg?branch=master)](https://travis-ci.org/hiptest/hps-ruby-rspec)
+[![Build Status](https://travis-ci.com/acyscml/hps-ruby-rspec.svg?branch=master)](https://travis-ci.com/acyscml/hps-ruby-rspec)
 
 Hiptest publisher samples with Ruby/Rspec
 
